@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import React, {useContext} from 'react';
 import { StyleSheet, View } from 'react-native';
 import {NavigationEvents} from "react-navigation";
 import { Context as AuthContext } from "../context/AuthContext";
